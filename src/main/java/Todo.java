@@ -3,7 +3,7 @@ public class Todo {
     private int userId;
     private String title;
     private boolean completed;
-    
+
 
     public Todo(int id, int userId, String title, boolean completed) {
         this.id = id;

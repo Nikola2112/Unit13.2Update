@@ -25,6 +25,16 @@
             <artifactId>icu4j</artifactId>
             <version>70.1</version>
         </dependency>
+        <dependency>
+            <groupId>io.jdev.address</groupId>
+            <artifactId>address-rules</artifactId>
+            <version>20130926</version>
+        </dependency>
+        <dependency>
+            <groupId>net.placemarkt</groupId>
+            <artifactId>address-formatter-java</artifactId>
+            <version>0.0.10</version>
+        </dependency>
     </dependencies>
 
 
