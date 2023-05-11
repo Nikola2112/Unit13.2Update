@@ -19,6 +19,14 @@ public class User {
         this.company = company;
     }
 
+    public User(String johnDoe, String name) {
+
+    }
+
+    public User(int i, String updatedName, String s) {
+
+    }
+
     public int getId() {
         return id;
     }
